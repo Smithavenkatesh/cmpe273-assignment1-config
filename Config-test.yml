@@ -1,0 +1,2 @@
+port:3000
+welcome_message: "Hello from Dockerized Flask App Test"
