@@ -1,2 +1,3 @@
-welcome_message: "Hello from Dockerized Flask App Test"
-Environment: "Test"
+welcome_message: "Hello from Dockerized Flask YAML App Dev"
+Environment: "Test_ENV"
+Type:".YML"
