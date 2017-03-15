@@ -1,0 +1,5 @@
+{
+welcome_message: "Hello from Dockerized Flask JSON App Dev"
+Environment: "Development_ENV"
+Type:".JSON"  
+}
