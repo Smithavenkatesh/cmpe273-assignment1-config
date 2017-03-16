@@ -1,5 +1,5 @@
 {
-"welcome_message": "Hello from Dockerized Flask JSON App Dev"
-"Running_Environment": "Development_ENV"
+"welcome_message": "Hello from Dockerized Flask JSON App Dev",
+"Running_Environment": "Development_ENV",
 "file_type": ".JSON"
 }
